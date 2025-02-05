@@ -21,3 +21,6 @@ Thumbs.db
 
 # Ignore logs and caches
 *.log
+
+#Large test data
+BeatSeperation/Test_Data/
